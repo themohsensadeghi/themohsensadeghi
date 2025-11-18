@@ -39,8 +39,7 @@ to create **clarity, structure, and execution** for high-tech ventures.
 <!-- Softwares & Design Tools -->
 <img src="[https://skillicons.dev/icons?i=arduino,raspberrypi](https://skillicons.dev/icons?i=ps,ai,pr,ae,figma&perline=7)" /><br>
 
-<!-- Tools -->
-<img src="https://skillicons.dev/icons?i=git,github,figma,linux,docker,cloudflare" />
+
 
 </p>
 
