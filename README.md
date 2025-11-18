@@ -33,8 +33,8 @@ to create **clarity, structure, and execution** for high-tech ventures.
 
 <p align="center">
   
-<!-- Languages -->
-<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,nextjs" /><br>
+<!-- Technical Skills -->
+<img src="https://skillicons.dev/icons?i=python,opencv,keras,tensorflow,git,github,linux,cpp,c,cs,matlab,arduino,html,css,sqlite,vscode,visualstudio&perline=7" /><br>
 
 <!-- Hardware -->
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" /><br>
