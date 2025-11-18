@@ -34,7 +34,7 @@ to create **clarity, structure, and execution** for high-tech ventures.
 <p align="center">
   
 <!-- Technical Skills -->
-<img src="https://skillicons.dev/icons?i=python,opencv,keras,tensorflow,git,github,linux,cpp,c,cs,matlab,arduino,html,css,sqlite,vscode,visualstudio&perline=7" /><br>
+<img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,git,github,linux,cpp,c,cs,matlab,arduino,html,css,sqlite,vscode,visualstudio&perline=7" /><br>
 
 <!-- Softwares & Design Tools -->
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,figma&perline=8" /><br>
